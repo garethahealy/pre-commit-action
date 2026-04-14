@@ -3,6 +3,9 @@ on:
   push:
     branches: [main, test-me-*]
 
+# Declare default permissions as read only.
+permissions: read-all
+
 jobs:
   main:
     runs-on: ubuntu-latest
