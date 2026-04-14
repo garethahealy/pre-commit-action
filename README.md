@@ -1,4 +1,4 @@
-this action is in maintenance-only mode and will not be accepting new features.
+this action is a fork of https://github.com/pre-commit/action with updated action versions
 
 generally you want to use [pre-commit.ci] which is faster and has more features.
 
