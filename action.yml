@@ -12,7 +12,7 @@ runs:
     shell: bash
     env:
       # renovate: datasource=pypi depName=pre-commit
-      PRE_COMMIT_VERSION: 4.5.1
+      PRE_COMMIT_VERSION: 4.6.0
 
   - run: python -m pip freeze --local
     shell: bash
