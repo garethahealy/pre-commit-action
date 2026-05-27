@@ -26,6 +26,6 @@ jobs:
       - uses: actions/setup-python@a309ff8b426b58ec0e2a45f0f869d46889d02405 # v6.2.0
         with:
           python-version: 3.x
-          
+
       - uses: garethahealy/pre-commit-action@c93005939a88ad60af0f8334b1e42ab91c30ad75 # v4.6.0
 ```
